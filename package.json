@@ -1,6 +1,6 @@
 {
   "name": "bkt-react-native-client-sdk",
-  "version": "0.0.2",
+  "version": "0.0.20",
   "description": "Bucketeer React Native SDK for feature flag management",
   "source": "./src/index.tsx",
   "main": "./lib/module/index.js",
