@@ -53,14 +53,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bucketeer-io/react-native-client-sdk.git"
+    "url": "git+https://github.com/duyhungtnn/react-native-client-sdk.git"
   },
   "author": "bucketeer-io (https://github.com/bucketeer-io)",
   "license": "Apache 2.0",
   "bugs": {
-    "url": "https://github.com/bucketeer-io/react-native-client-sdk/issues"
+    "url": "https://github.com/duyhungtnn/react-native-client-sdk/issues"
   },
-  "homepage": "https://github.com/bucketeer-io/react-native-client-sdk#readme",
+  "homepage": "https://github.com/duyhungtnn/react-native-client-sdk#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
